@@ -4,6 +4,7 @@ Created on Mon Jul 13 00:38:28 2020
 
 @author: SOFTECH
 """
+#Author Oyero Abdullahi
 import numpy as np
 Y = 5.0
 X = 5.0
